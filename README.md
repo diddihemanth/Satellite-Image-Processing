@@ -22,7 +22,6 @@ Satellite Image processing/
 ├── requirements.txt
 └── samples/ # Sample satellite images
 
-
 ---
 
 ## Getting Started
